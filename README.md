@@ -73,6 +73,14 @@
 
 - [Creative Cloud App](https://creativecloud.adobe.com/apps/download/creative-cloud)
 
+## boot from USB
+
+- [Etcher](https://www.balena.io/etcher/)
+- [Raspberry Pi Imager](https://www.raspberrypi.org/software/)
+- [Rufus](https://rufus.ie/de/) e.g. [Rufus on Github](https://github.com/pbatard/rufus)
+- [Windows 10 Media Creation Tool](https://www.microsoft.com/de-de/software-download/windows10)
+- [Windows 11 Media Creation Tool](https://www.microsoft.com/de-de/software-download/windows11)
+
 ## Game Launchers
 
 - [Battle.net](https://www.blizzard.com/de-de/apps/battle.net/desktop)
