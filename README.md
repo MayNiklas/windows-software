@@ -60,6 +60,10 @@
 - [Teamspeak](https://teamspeak.com/en/downloads/)
 - [Telegram](https://telegram.org/dl/desktop/win)
 
+## University / Development
+
+- [VS Code](https://code.visualstudio.com/download)
+
 ## Synology
 
 - [Synology Active Backup for Business](https://www.synology.com/de-de/support/download/DS1819+#utilities)
