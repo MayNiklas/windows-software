@@ -2,7 +2,7 @@
 
 ## Drivers
 
-### [MSI Downloads](https://de.msi.com/Motherboard/PRESTIGE-X570-CREATION/support)
+### [MSI X570 Creation Downloads](https://de.msi.com/Motherboard/PRESTIGE-X570-CREATION/support)
 
 - [10G Super Lan Drivers](https://download.msi.com/dvr_exe/mb/10g_super_lan.zip)
 - [AM4 RAID Driver](https://download.msi.com/dvr_exe/mb/AM4_RAID_Driver_WT.zip)
@@ -11,6 +11,10 @@
 - [Intel Network Drivers](https://download.msi.com/dvr_exe/mb/Intel_Network_WT.zip)
 - [Intel WIFI Driver](https://download.msi.com/dvr_exe/mb/intel_wifi_driver_W11.zip)
 - [Realtek HD Universal Driver](https://download.msi.com/dvr_exe/mb/realtek_audio_N_APO3.zip)
+
+### [Asus G713RM-KH093W Downloads](https://rog.asus.com/de/laptops/rog-strix/rog-strix-g17-2022-series/helpdesk_download/)
+
+- Basically download everything and install it. It's a laptop so the bloated software is needed for controlling the fans and stuff.
 
 ### [NVIDIA Downloads](https://www.nvidia.com/de-de/geforce/drivers/)
 
@@ -30,7 +34,7 @@
 
 ### misc I/O
 
-- [GoXLR Mini](https://www.tc-helicon.com/product.html?modelCode=P0DI7)
+- [EVO 4](https://evo.audio/products/audio-interfaces/evo-4/downloads)
 - [Loupdeck](https://loupedeck.com/de/setup-de)
 - [Wacom](https://www.wacom.com/de-de/support/product-support/drivers)
 
@@ -73,4 +77,5 @@
 - [Minecraft](https://www.minecraft.net/de-de/download)
 - [Origin](https://www.origin.com/deu/de-de/store/download)
 - [Steam](https://store.steampowered.com/about/)
+- [Ubisoft Connect](https://connect.ubisoft.com/de-de)
 - [Valorant](https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.eu.exe)
