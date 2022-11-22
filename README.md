@@ -87,7 +87,7 @@
 - [Epic Games](https://www.epicgames.com/store/de/download)
 - [Gog](https://www.gog.com/galaxy)
 - [Minecraft](https://www.minecraft.net/de-de/download)
-- [Origin](https://www.origin.com/deu/de-de/store/download)
+- [EA-app](https://origin-a.akamaihd.net/EA-Desktop-Client-Download/installer-releases/EAappInstaller.exe)
 - [Steam](https://store.steampowered.com/about/)
 - [Ubisoft Connect](https://connect.ubisoft.com/de-de)
 - [Valorant](https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.eu.exe)
